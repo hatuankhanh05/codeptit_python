@@ -1,0 +1,1 @@
+{"name":"Local: PYKT078","url":"c:\\Users\\GL6510SDK\\OneDrive\\Máy tính\\comp prog\\code ptit\\python\\PYKT078.py","tests":[{"id":1756049745959,"input":"1\n5 3\n-1 2 3 4 -1","output":"-1 -1 2 3 3 4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\GL6510SDK\\OneDrive\\Máy tính\\comp prog\\code ptit\\python\\PYKT078.py","group":"local","local":true}

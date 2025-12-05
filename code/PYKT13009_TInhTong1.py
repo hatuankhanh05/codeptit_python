@@ -4,8 +4,8 @@
 '''
 
 '''
-SOLUTION:
-- Áp dụng công thức nội suy Lagrange, ta có:
+HINT:
+- Áp dụng công thức nội suy lagrange
 '''
 
 MOD = 10**9 + 7
